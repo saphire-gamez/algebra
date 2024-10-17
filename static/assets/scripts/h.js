@@ -164,7 +164,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 })
 // Splash
 let SplashT = [
-  "SlowGuardian will be back next year!",
+  "is algebra-lessons.com the best algebra site??!!?",
 
 ];
 
