@@ -9,7 +9,7 @@ try {
 if (!inFrame && !navigator.userAgent.includes("Firefox")) {
   const popup = open("about:blank", "_blank")
   if (!popup || popup.closed) {
-    alert("Please allow popups and redirects.")
+    alert("Please allow popups and redirects. (REQUIRED SO IT DOESENT SHOW UP IN YOUR HISTORY)")
   } else {
     const doc = popup.document
     const iframe = doc.createElement("iframe")
@@ -32,7 +32,7 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
     doc.head.appendChild(link)
     doc.body.appendChild(iframe)
 
-    const pLink = localStorage.getItem(encodeURI("pLink")) || "https://www.nasa.gov/"
+    const pLink = localStorage.getItem(encodeURI("pLink")) || "https://launch.ocps.net/"
     location.replace(pLink)
 
     const script = doc.createElement("script")
@@ -164,7 +164,19 @@ document.addEventListener("DOMContentLoaded", function (event) {
 })
 // Splash
 let SplashT = [
-  "is algebra-lessons.com the best algebra site??!!?",
+  "Welome To Algebra-Lessons™ Developed By EzGaming®",
+  "goofy goobers was here :O",
+  "Math Lessons Site is BOOTAH!!!",
+  "use algebra-lessons pls",
+  "EzGaming® on top tho..",
+  "First Ever Website By Ezgaming Was Supernova Isint that Cool?",
+  "MRBEAST!!!!!!!!!",
+  "We Use Ads To Pay For This Website.",
+  "Go check out Nillon Interstellar! -> n3illonstudios.vercel.app",
+  "skibidi toilet will be mine yeah ohio town rizz",
+  "im in the rizz of it everybody knows..",
+  "ITS TIIIIIME FOR RIZZMASSSSSS",
+  "j'adore les cours d'algèbre...",
 
 ];
 
