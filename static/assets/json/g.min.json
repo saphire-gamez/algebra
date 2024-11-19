@@ -164,13 +164,6 @@
     "categories": ["all"]
   },
   {
-    "name": "3 Slices",
-    "link": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2F3-slices.xml",
-    "image": "/assets/media/icons/3slices.webp",
-    "categories": ["all"]
-  },
-
-  {
     "name": "Starblast",
     "link": "https://starblast.io",
     "image": "/assets/media/icons/starblastio.webp",
@@ -696,7 +689,7 @@
   },
   {
     "name": "Ace Attorney",
-    "link": "https://f.kbhgames.com/r/gba/?r=ace-attorney",
+    "link": "https://web.aceattorneyonline.com/",
     "image": "/assets/media/icons/aa.webp",
     "categories": ["all"]
   },
@@ -714,7 +707,7 @@
   },
   {
     "name": "Agar.io",
-    "link": "https://agar.io",
+    "link": "https://agario.tube",
     "image": "/assets/media/icons/agario.webp",
     "categories": ["all"]
   },
@@ -811,7 +804,7 @@
   },
   {
     "name": "Cluster Rush",
-    "link": "/y/Cluster-Rush/index.html",
+    "link": "https://clusterrushonline.github.io/file/",
     "image": "/assets/media/icons/cluster-rush.webp",
     "categories": ["all", "local"],
     "local": "true"
@@ -987,7 +980,7 @@
   },
   {
     "name": "Idle Breakout",
-    "link": "https://interstellarnetwork.github.io/Interstellar-Assets/play/idle-breakout/index.html",
+    "link": "https://idle-breakout.github.io/games/idle-breakout/index.html",
     "image": "/assets/media/icons/idle.webp",
     "categories": ["all"]
   },
@@ -1129,6 +1122,12 @@
     "name": "Online Soccer M.",
     "link": "https://www.onlinesoccermanager.com/",
     "image": "/assets/media/icons/osm.webp",
+    "categories": ["all"]
+  },
+  {
+    "name": "Pixel Speedrun",
+    "link": "https://www.construct.net/en/free-online-games/pixel-speedrun-2363/play",
+    "image": "/assets/media/icons/pixelspeedrun.webp",
     "categories": ["all"]
   },
   {
