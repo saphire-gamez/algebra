@@ -5,6 +5,20 @@
     "categories": ["all"],
     "custom": "true"
   },
+    {
+    "name": "StealthWriter AI",
+    "link": "https://stealthwriter.ai/",
+    "image": "/assets/media/icons/amazon.webp",
+    "categories": ["all", "media"]
+    "say": "StealthWriter AI Bypass Powered By Algebra-Lessons"
+    },
+    {
+    "name": "DeepAI",
+    "link": "https://deepai.org/",
+    "image": "/assets/media/icons/deepai.webp",
+    "categories": ["all", "media"]
+    "say": "DeepAI Bypass Powered By Algebra-Lessons"
+  },
   {
     "name": "Amazon",
     "link": "https://amazon.com/",
