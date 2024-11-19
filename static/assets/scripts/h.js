@@ -164,12 +164,12 @@ document.addEventListener("DOMContentLoaded", function (event) {
 })
 // Splash
 let SplashT = [
-  "Welome To Algebra-Lessons™ Developed By EzGaming®",
+  "Welome To Algebra-Lessons™ Developed By PlayyUnblocked®",
   "goofy goobers was here :O",
   "Math Lessons Site is BOOTAH!!!",
   "use algebra-lessons pls",
-  "EzGaming® on top tho..",
-  "First Ever Website By Ezgaming Was Supernova Isint that Cool?",
+  "PlayyUnblocked® on top tho..",
+  "First Ever Website By PlayyUnblocked Was Supernova Isint that Cool?",
   "MRBEAST!!!!!!!!!",
   "We Use Ads To Pay For This Website.",
   "Go check out Nillon Interstellar! -> n3illonstudios.vercel.app",
